@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1651464694 source:c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"Get_Texture.h"
+
+1650962889 source:c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\commonfunc.cpp
+	"CommonFunc.h"
+	<iostream>
+
+1651464694 c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\commonfunc.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1650964029 source:c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\keypress.cpp
+	"KeyPress.h"
+	<iostream>
+
+1650964059 c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\keypress.h
+	"CommonFunc.h"
+
+1651464036 c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\get_texture.h
+	"CommonFunc.h"
+
+1651464683 source:c:\users\latitude 5450\desktop\ltnc\project\testsdl2_lesson1\get_texture.cpp
+	"Get_Texture.h"
+	<iostream>
+
